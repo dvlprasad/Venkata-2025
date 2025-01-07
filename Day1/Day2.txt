@@ -1,1 +1,30 @@
-THis is venkat
+Basic Commands in Linux 
+How to increase find size of terminal 
+select text
+Rightclick options
+text console font size
+
+Swith to Root Directory 
+Sudo >Super user do
+Su   >Switch to user
+root  > Roor (-)
+
+Pwd > present working directory 
+
+In windows > Linux
+Folder > File -Windows
+Directory > File -Linux
+
+cd /venkat
+cd > change direcory 
+cd .. > once 
+cd ../.. twice 
+cd + Enter always go to Root
+
+ls > list of directory  or files
+ls -l> More deatils if file or directory
+ll > same as ls -l
+ls -la > Show hidden files
+ls -l> list existing files
+ls -ltr list date wise ascending order l
+ls / > list of directories in root 
